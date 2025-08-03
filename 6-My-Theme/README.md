@@ -1,4 +1,4 @@
-### Basic Wordpress Theme
+## Basic Wordpress Theme
 
 A basic wordpress theme which i created while learning the workflow of template. It Includes template files like "header.php", "footer.php", "style.css", "functions.php", "index.php", "single.php", "page.php".
 

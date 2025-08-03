@@ -1,7 +1,7 @@
 
 A simple plugin to create a custom REST API endpoint in WordPress.
 
-### Description
+## Description
 
 This plugin adds a custom REST API endpoint at:
 

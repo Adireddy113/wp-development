@@ -1,6 +1,6 @@
 A simple WordPress plugin to create a custom post type called "Movies" with a release year input field in the admin panel
 
-### Description
+## Description
 
 This plugin adds a new post type called **Movies** to your WordPress admin area  
 When you create or edit a movie post, you wil see a small input where you can enter the **release year** for movie

@@ -1,5 +1,4 @@
-
-### AJAX Form Plugin
+## AJAX Form Plugin
 
 This is a basic plugin I made to practice how **AJAX works** in WordPress
 

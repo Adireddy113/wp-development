@@ -1,4 +1,3 @@
-
 # Admin View – WordPress Plugin
 
 The plugin adds a new menu item in the WordPress admin sidebar called **Form Data** When clicked, it opens a page where you can see the data stored in a custom table in the WordPress database
@@ -24,7 +23,7 @@ The plugin adds a new menu item in the WordPress admin sidebar called **Form Dat
 2. A new menu item will appear called **Form Data**
 3. Open that page to view the stored data
 
-## Errors i faced
+## Errors I Faced
 
 1. Firstly using same form names and same name attributes in different plugins causes database errors
 2. And also some confusion while using multiple helper functions
