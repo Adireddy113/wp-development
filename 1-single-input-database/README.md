@@ -1,6 +1,6 @@
 ## Simple Input Form – WordPress Plugin
 
-This is a basic WordPress plugin I created as part of my learning journey. The plugin adds a form with one input field and submitted value to a custom database table
+This is a basic WordPress plugin I created as part of my learning journey. The plugin adds a form with one input field and submitted value to a database table
 
 ### What I Learned
 
