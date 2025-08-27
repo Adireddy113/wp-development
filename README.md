@@ -28,13 +28,7 @@ Examples include:
 
 ---
 
-## 🚀 Getting Started
-
-### **Prerequisites**
-- PHP >= 7.4  
-- WordPress latest version  
-- MySQL / MariaDB  
-- Local server setup (XAMPP / MAMP / LocalWP)  
+## 🚀 Getting Started  
 
 ### **How to Use**
 1. Clone the repository:
@@ -65,4 +59,4 @@ Contributions are welcome! If you have suggestions, improvements, or additional 
 This repository is licensed under the MIT License. See the LICENSE
  file for details.
 
-"Every step forward, no matter how small, is proof you're becoming who you're meant to be 🎯"
+            "Every step forward, no matter how small, is proof you're becoming who you're meant to be 🎯"
