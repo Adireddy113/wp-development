@@ -1,4 +1,9 @@
-# Operating system files
+# Operating System files
+
 .DS_Store
 Thumbs.db
 desktop.ini
+
+# Composer / PHP dependencies
+
+vendor/
